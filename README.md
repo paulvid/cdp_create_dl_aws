@@ -25,7 +25,7 @@ This set of scripts automates the creation of all minimal pre-requisites to setu
 
 ### 1. Clone this repository
 ```
-git clone https://github.com/paulvid/emr_to_cdp.git
+git clone https://github.com/paulvid/cdp_create_dl_aws.git
 ```
 
 ### 2. Run the following scripts in order
