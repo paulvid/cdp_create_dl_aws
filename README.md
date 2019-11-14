@@ -5,7 +5,7 @@
 
 # Overview
 
-This set of scripts automates the creationg of all minimal pre-requisites to setup a CDP AWS datalake, including:
+This set of scripts automates the creation of all minimal pre-requisites to setup a CDP AWS datalake, including:
 * Syncing proper roles to existing environment
 * Set of minimal AWS policies
 * Set of minimal AWS roles
