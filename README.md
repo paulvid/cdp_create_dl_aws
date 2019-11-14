@@ -50,7 +50,7 @@ cdp_describe_dl.sh <prefix>
 ### 4. Sync free IPA users
 
 ```
-cdp_sync_users.sh <prefix> 
+cdp_sync_users.sh <base_dir> <prefix> 
 ```
 
 
