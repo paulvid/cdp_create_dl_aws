@@ -33,7 +33,7 @@ git clone https://github.com/paulvid/cdp_create_dl_aws.git
 
 Create roles and mapping in your existing environment:
 ```
-cdp_create_group_iam.sh <base_dir> <prefix> <region> 
+cdp_create_group_iam.sh <base_dir> <prefix> 
 ```
 
 Create datalake:
